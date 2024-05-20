@@ -1,4 +1,9 @@
-Flask==2.0.2
-Flask-Cors==3.0.10
-google-generativeai==0.4.1
-Werkzeug== 2.2.2
+Flask
+Flask-Cors
+Werkzeug
+requests
+google-generativeai  # Assuming this version exists; please replace with the correct version
+markdown
+google-api-python-client
+flask-restx
+flask-rest
